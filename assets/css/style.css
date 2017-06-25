@@ -1,0 +1,39 @@
+#title-div{
+	text-align: center;
+	width:100%;
+	background-color: blue;
+	color:white;
+
+}
+
+#first-table h4{
+	border: solid;
+	background-color: blue;
+	color:white;
+}
+
+#info-container{
+	border:solid;
+	margin-top: 125px;
+}
+
+#input-container{
+	border:solid;
+	margin-top: 125px;
+}
+
+#input-container h4{
+	border: solid;
+	background-color: blue;
+	color:white;
+}
+
+#user-input{
+	padding-right:20px;
+	padding-left: 20px;
+}
+
+#submit-button{
+margin:10px;
+
+}
